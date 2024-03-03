@@ -27,10 +27,11 @@
 		Github repo to which this has to be pushed
 		user credentials for the github id.
 
-  	- Github Link Generator after push
-  	  For each commit pushed find the files that have been part of that commit and generate their github link.
+  	- Update the google sheet with the last modified timestamp in the respective files. 
 
 # IN PROGRESS:
+	- Github Link Generator after push
+		For each commit pushed find the files that have been part of that commit and generate their github link.
 
 # TESTED:
 
